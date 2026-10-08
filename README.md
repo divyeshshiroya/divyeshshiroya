@@ -8,10 +8,10 @@
 </p>
 
 <p align="center">
-  <a href="https://YOUR-DOMAIN.com/"><img src="https://img.shields.io/badge/Portfolio-F2B544?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" /></a>
+  <a href="https://divyesh-shiroya.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-F2B544?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/divyesh-shiroya/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:shiroyadivyesh143@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://YOUR-DOMAIN.com/assets/Divyesh_Shiroya_Resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-333333?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" /></a>
+  <a href="https://divyesh-shiroya.vercel.app/assets/Divyesh_Shiroya_Resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-333333?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" /></a>
 </p>
 
 ---
