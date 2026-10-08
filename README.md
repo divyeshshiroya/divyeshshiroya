@@ -9,9 +9,9 @@
 
 <p align="center">
   <a href="https://divyesh-shiroya.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-F2B544?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/divyesh-shiroya/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/divyesh-shiroya/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDEgMSAwLTQuMTI1IDIuMDYyIDIuMDYyIDAgMCAxIDAgNC4xMjV6TTcuMTE5IDIwLjQ1MkgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==" alt="LinkedIn" /></a>
   <a href="mailto:shiroyadivyesh143@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://divyesh-shiroya.vercel.app/assets/Divyesh_Shiroya_Resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-333333?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" /></a>
+  <a href="https://divyesh-shiroya.vercel.app/assets/Divyesh_Shiroya_Resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-333333?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume" /></a>
 </p>
 
 ---
@@ -45,6 +45,7 @@ I build the server side of commerce: Node.js and Express services on MongoDB, cu
 - 💬 Ask me about **Node.js APIs, Shopify app development, auth & sessions, and payment webhooks**
 - 📫 Reach me at **shiroyadivyesh143@gmail.com**
 - 📍 Based in **Surat, India**
+- 🎓 **B.Com**, Veer Narmad South Gujarat University
 
 ---
 
@@ -65,6 +66,8 @@ I build the server side of commerce: Node.js and Express services on MongoDB, cu
 | [**CT Back in Stock \| Preorder**](https://apps.shopify.com/backinstock-alerts) | Restock and price-drop alerts by email, SMS and push. Includes a "Notify Me" widget with demand analytics, preorders with partial payments, and low-stock alerts. | Node.js · Shopify Polaris |
 | **Custom Shopify apps** | Custom apps at Codetasker on the REST and GraphQL APIs, covering inventory, orders, customers and shipping integrations. Optimized for lower API response times. | Node.js · Shopify REST & GraphQL |
 
+→ [Problem, build and result for each app on my portfolio](https://divyesh-shiroya.vercel.app/#shopify)
+
 ---
 
 ### `GET /work/brushprint` · flagship, live in production
@@ -78,6 +81,8 @@ A role-based order-to-delivery platform for custom-printed products. It has five
 - 📦 **Order lifecycle state machine**, tiered pricing based on total quantity, server-side print-file generation, and a CSV/XLSX payment ledger and GST register
 
 `Node.js` `Express 5` `MongoDB` `Mongoose 9` `Razorpay` `React`
+
+→ [Read the full case study](https://divyesh-shiroya.vercel.app/#work) (architecture, backend challenges and request/response examples) · [Live app](https://print.stimbrushes.com/login) (sign-in required)
 
 ---
 
@@ -113,18 +118,9 @@ A role-based order-to-delivery platform for custom-printed products. It has five
 
 ---
 
-### `GET /stats`
+### `POST /contact`
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=divyeshshiroya&show_icons=true&hide_border=true&theme=github_dark&title_color=F2B544&icon_color=F2B544" />
-    <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=divyeshshiroya&show_icons=true&hide_border=true&title_color=8A4F00&icon_color=8A4F00" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=divyeshshiroya&hide_border=true&theme=dark&ring=F2B544&fire=F2B544&currStreakLabel=F2B544" />
-    <img height="165" alt="GitHub streak" src="https://streak-stats.demolab.com?user=divyeshshiroya&hide_border=true&ring=8A4F00&fire=8A4F00&currStreakLabel=8A4F00" />
-  </picture>
-</p>
+Hiring for backend or Shopify app work, or want to talk through an API? Send a request through [my portfolio](https://divyesh-shiroya.vercel.app/#contact), email **shiroyadivyesh143@gmail.com**, or message me on [LinkedIn](https://www.linkedin.com/in/divyesh-shiroya/).
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=divyeshshiroya&label=Profile%20views&color=F2B544&style=flat" alt="Profile views" />
